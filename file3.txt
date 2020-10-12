@@ -1,2 +1,4 @@
 Este é o exemplo do ficheiro de texto file 3
-
+Linha 2 do file3
+Linha 3 do file3
+Linha 4 do file3
