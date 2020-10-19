@@ -1,5 +1,6 @@
 Este é o exemplo do ficheiro de texto file 3
 
+<<<<<<< HEAD
 <h2>Bebidas</h2>
 
 <ul>
@@ -10,3 +11,16 @@ Este é o exemplo do ficheiro de texto file 3
 
 
 
+=======
+
+<h1>Listas de coisas</h1>
+
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
+>>>>>>> NovaFeature
