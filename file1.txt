@@ -3,3 +3,5 @@ Fiz uma alteração no ficheiro
 
 Alterações efetuadas nobranchNovaFeature
 
+Alteração no branch MASTER
+
