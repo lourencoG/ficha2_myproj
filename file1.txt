@@ -1,4 +1,11 @@
 Este é um exemplo de texto do file1
 Fiz uma alteração no ficheiro
 
+
 Alteração no branch NOVAFEATURE
+
+Alterações efetuadas nobranchNovaFeature
+
+Alteração no branch MASTER
+
+
